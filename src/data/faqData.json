@@ -1,0 +1,50 @@
+[
+  {
+    "question": "What is an online test maker?",
+    "answer": "An online test maker is an online tool or software that companies or individuals use to build and customize tests or quizzes for students, staff training programs, and other general assessments. Not only do online test makers allow people to build meaningful exams and quizzes, but most online test makers also let their creators track scores and give grades through the same tool."
+  },
+  {
+    "question": "What is a test maker used for?",
+    "answer": "In general, an online test maker is used to create custom, interactive tests or quizzes. A test maker can be used for various types of quizzes and tests, in various industries — it just depends on the user’s needs and requirements."
+  },
+  {
+    "question": "Who can use a test maker?",
+    "answer": "Teachers and professors can use them to build tests, students can use them to study for exams, HR professionals can use them for employee training, and so on. If you need to create a test or quiz for any reason, you can use an online test maker."
+  },
+  {
+    "question": "What are the benefits of using an online test maker?",
+    "answer": "There are many benefits to using an online test maker, especially in today’s digital landscape. With other aspects of education happening online — like class registration, textbook shopping, and tuition payments — it makes sense that tests and quizzes are done online as well. Some key benefits include: Eliminating the costs of printing paper tests. Recording and organizing test scores for easy access and Automated test grading to save you time."
+  },
+  {
+    "question": "How do you create tests with a test maker?",
+    "answer": "With Jotform, it’s super easy and fun to build a test. You can either create one from scratch or start with one of our many quiz templates to get your creativity flowing. After you’ve selected a template that you like, simply add your test questions in whichever format you would like — multiple choice, fill-in-the-blank, and more. Then customize your quiz to match your vision by changing fonts and colors, uploading images, adding widgets and integrations, and more."
+  },
+  {
+    "question": "Can I set time limits for test completion?",
+    "answer": "Yes, you can set time limits for your online tests with Jotform by using the Countdown widget. The timer will start when test takers open your quiz or test. This feature is great for take-home tests and online homework assignments."
+  },
+  {
+    "question": "Can I randomize the order of questions on the test?",
+    "answer": "Yes, with Jotform you can randomize the order of your questions for your online tests by using our handy Shuffle widget. Just add this widget to your test or quiz and select your shuffling preferences in the settings."
+  },
+  {
+    "question": "Can I create multiple choice, true/false, or short answer questions?",
+    "answer": "Yes, you can create multiple choice, true/false, and short answer questions, among other question types. Simply open the Form Builder and navigate to the quiz that you’d like to edit. From the Form Elements menu on the left, drag and drop the types of questions you’d like to add to your test."
+  },
+  {
+    "question": "Can I add images or videos to my test questions?",
+    "answer": "Yes, you can add images and videos to your test questions. Simply open the test you’d like to edit in the Jotform Form Builder and navigate to the Form Elements section in the sidebar. Drag and drop the Image element where you’d like it to appear in your quiz."
+  },
+  {
+    "question": "Can I set up the test to allow students to save and resume their progress at a later time?",
+    "answer": "Yes, you can set up your test or quiz to allow your students to save and continue at a later time. To enable this feature, simply open up the test and navigate to Settings in the middle of the top bar of the Form Builder. Then click Form Settings on the left sidebar and then click Show More Options. Scroll down to Continue Forms Later and then switch the selection to Enabled. Now your students will be able to save their progress and revisit the test at a later date."
+  },
+  {
+    "question": "Can I see a preview of my test before publishing it?",
+    "answer": "Yes, you can preview your test or quiz before you publish it. Just open up the Form Builder, make your edits, and then toggle the Preview Form button in the upper right of the screen to see a preview of your test."
+  },
+  {
+    "question": "What are the other terms for a test maker?",
+    "answer": "Test makers are referred to by other names, but they generally perform the same functions. Some other popular terms for test makers are: Test Builder, Test Generator, Test creator."
+  }
+]
